@@ -1,1 +1,1 @@
-# A-Blurred-Line-Installation-Instructions
+# A Blurred Line - Installation instructions
