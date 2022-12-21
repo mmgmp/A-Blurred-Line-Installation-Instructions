@@ -1,8 +1,8 @@
-# A Blurred Line - Instructions
+# A Blurred Line - RTP
 
 EN:
 
-Here are the requaired files toplay "A Blurred Line" game, for the complete instructions visit the guide in my website --> (WIP)
+Here are the requaired files to play "A Blurred Line" game, for the complete instructions visit the guide in my website --> (WIP)
 
 ES:
 
